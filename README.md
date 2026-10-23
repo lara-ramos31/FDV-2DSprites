@@ -233,7 +233,7 @@ The ship's pixels are four times bigger than the player's. To avoid this we shou
 
 With the player at y = +size, and the boat at y = -size, they are both right at the borders of the Game view.
 
-|Size\Aspect ratio| 16:9 | 4:3 | 21:9 |
+|Size\Aspect ratio| 4:3 | 16:9 | 21:9 |
 |:---:|:----------:|:---------:|:------------:|
 | 2 | ![Size = 2, 4:3](Media/task8_size2_4_3.png) | ![Size = 2, 16:9](Media/task8_size2_16_9.png) | ![Size = 2, 21:9](Media/task8_size2_21_9.png) |
 | 5 | ![Size = 5, 4:3](Media/task8_size5_4_3.png) | ![Size = 5, 16:9](Media/task8_size5_16_9.png) | ![Size = 5, 21:9](Media/task8_size5_21_9.png) |
