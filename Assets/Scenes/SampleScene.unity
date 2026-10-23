@@ -486,10 +486,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1907760422}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52a87a453134e316db13f640264a7440, type: 3}
+  m_Script: {fileID: 11500000, guid: d7c662f680bee05cda05b29d4d583080, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Task4_Player
+  m_EditorClassIdentifier: Assembly-CSharp::Task5_Player
   speed: 5
+  minWalkingDistance: 0.0001
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
