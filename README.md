@@ -186,6 +186,7 @@ The new logic revolves around checking against a minimum travel distance between
 > Choose a PPU so that the character is between 1 and 2 units tall. What value did you choose? Why?
 
 By going back to [Task 1](#task-1), we'll discover that the default PPU value is 100, and that the first image in our Atlas is 65x98 (Width x Height). We know that a sprite's size in units $spriteSize_u$ is computed as:
+
 $$
 spriteSize_u = \frac{spriteSize_{px}}{PPU_{px}} 
 $$
